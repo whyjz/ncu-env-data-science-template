@@ -1,0 +1,11 @@
+format: jb-article
+root: project
+
+# For other types of structure, please see https://jupyterbook.org/en/stable/structure/toc.html
+# For example:
+
+# format: jb-book
+# root: index
+# chapters:
+# - file: path/to/chapter1
+# - file: path/to/chapter2
